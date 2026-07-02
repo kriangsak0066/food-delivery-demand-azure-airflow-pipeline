@@ -1,0 +1,11 @@
+.env
+logs/
+plugins/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+data/processed/
+data/raw/
+*.log
