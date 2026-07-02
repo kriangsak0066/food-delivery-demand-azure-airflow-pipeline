@@ -119,10 +119,22 @@ The Power BI dashboard contains four pages:
 3. Restaurant Performance
 4. Delivery SLA
 
+### Demand Overview
+
 ![Demand Overview](dashboards/images/01_demand_overview.jpg)
+
+### Hourly Demand
+
 ![Hourly Demand](dashboards/images/02_hourly_demand.jpg)
+
+### Restaurant Performance
+
 ![Restaurant Performance](dashboards/images/03_restaurant_performance.jpg)
+
+### Delivery SLA
+
 ![Delivery SLA](dashboards/images/04_delivery_sla.jpg)
+
 ## Key Metrics
 
 - Total orders
